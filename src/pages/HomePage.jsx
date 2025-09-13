@@ -32,6 +32,7 @@ const HomePage = () => {
         backgroundColor: "#f4f4f4",
         boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
         fontFamily: "Arial, sans-serif",
+        color:"black",
       }}
     >
       <h1 style={{ textAlign: "center", color: "#333", marginBottom: "2rem" }}>
